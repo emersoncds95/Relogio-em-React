@@ -1,10 +1,11 @@
+import Clock from '../components/Clock/Clock'
 import './App.css'
 
 function App() {
 
   return (
     <div>
-
+      <Clock />
     </div>
   )
 }
